@@ -1,0 +1,14 @@
+==8417== Memcheck, a memory error detector
+==8417== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==8417== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==8417== Command: ./Number_operations_and_properties/build/Test_OperationsAndProperties.out
+==8417== 
+==8417== 
+==8417== HEAP SUMMARY:
+==8417==     in use at exit: 0 bytes in 0 blocks
+==8417==   total heap usage: 26 allocs, 26 frees, 1,038 bytes allocated
+==8417== 
+==8417== All heap blocks were freed -- no leaks are possible
+==8417== 
+==8417== For counts of detected and suppressed errors, rerun with: -v
+==8417== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
